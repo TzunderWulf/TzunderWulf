@@ -1,8 +1,7 @@
 <h2 align="center">Hi there, I'm TzunderWulf 👋</h2>
 <h3 align="center">Connect with me via:</h3>
 <p align="center">
-  <a href="https://twitter.com/tzunderwulf">Twitter</a>
-  <a href="mailto:svandenbos@tzunder.nl">E-mail</a>
+  <a href="https://twitter.com/tzunderwulf">Twitter</a> | <a href="mailto:svandenbos@tzunder.nl">E-mail</a>
 </p>
 <!--
 **TzunderWulf/TzunderWulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
